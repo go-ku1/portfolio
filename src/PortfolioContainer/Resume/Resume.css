@@ -4,6 +4,7 @@
     flex-direction: column;
     justify-content: center;
     min-height: fit-content;
+    height: 700px;
     margin:120px 0;
 }
 .resume-card{
